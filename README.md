@@ -1,8 +1,7 @@
-================================================================================
-                          BIAS STUDY IN AI MODELS PROJECT
-================================================================================
 
-📚 ABOUT THE RESEARCH ARTICLE
+                          BIAS STUDY IN AI MODELS PROJECT
+
+
 -------------------------------------------------------------------------------
 This project implements concepts from the scientific article:
 
