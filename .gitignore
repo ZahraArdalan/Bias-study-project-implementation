@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project results
+results/
+*.png
+*.jpg
+*.json
+*.log
+
+# Data files
+*.csv
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Jupyter
+.ipynb_checkpoints/
